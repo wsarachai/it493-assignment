@@ -26,6 +26,7 @@ function createElement(element, attribute, inner) {
   return el;
 }
 
-$(document).ready(function () {
-  mainContainer = document.getElementById("main-container");
+document.addEventListener("DOMContentLoaded", function () {
+  const mainContainer = document.getElementById("main-container");
+  mainContainer.appendChild(createElement("h1", {}, "Student Name Table"));
 });
