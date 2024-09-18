@@ -24,6 +24,12 @@
     "comment": "Unlimited blade work"
   },
   {
+    "name": "Chinnakit Uparakul",
+    "studentId": 6504106338,
+    "nickname": "Chin",
+    "comment": "I'm no good"
+  },
+  {
     "name": "Patipan Karuna",
     "studentId": 6404106321,
     "nickname": "New",
@@ -34,11 +40,5 @@
     "studentId": 6404106366,
     "nickname": "Wan",
     "comment": "เช้านี้อากาศดีจัง"
-  },
-  {
-    "name": "Chinnakit Uparakul",
-    "studentId": 6504106338,
-    "nickname": "Chin",
-    "comment": "I'm no good"
   }
 ]
