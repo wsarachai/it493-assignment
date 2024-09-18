@@ -23,19 +23,17 @@
     "nickname": "Boss/Nut",
     "comment": "Unlimited blade work"
   },
-   {
+  {
     "name": "Chitiphat tangsawat",
     "studentId": 6404106337,
     "nickname": "uniff",
     "comment": "Hellow"
-
   },
   {
     "name": "Chinnakit Uparakul",
     "studentId": 6504106338,
     "nickname": "Chin",
     "comment": "I'm no good"
-
   },
   {
     "name": "Raphiphat Wongkhat",
@@ -50,7 +48,6 @@
     "comment": "Su Su Su Supernova"
   },
   {
-
     "name": "Patipan Karuna",
     "studentId": 6404106321,
     "nickname": "New",
@@ -62,12 +59,11 @@
     "nickname": "Wan",
     "comment": "เช้านี้อากาศดีจัง"
   },
- {
+  {
     "name": "Nonthagorn Jantra",
     "studentId": 6404106355,
     "nickname": "Non",
     "comment": "I TI PI SO"
-
   },
   {
     "name": "Nirut Chanai",
@@ -92,30 +88,26 @@
     "studentId": 6504106383,
     "nickname": "jame",
     "comment": "sssssssssssssssssssssssssssssssssssss"
-  }
-  ,
-{
+  },
+  {
     "name": "Netiporn Sinpiang",
     "studentId": 6504106368,
     "nickname": "Nay",
     "comment": "Have A Good Day"
   },
-{
-
+  {
     "name": "Wipada Pancharoen",
     "studentId": 6504106404,
     "nickname": "view",
     "comment": "Satu99"
   },
-{
-
+  {
     "name": "Thidarat Thongthip",
     "studentId": 6504106356,
     "nickname": "Bim",
     "comment": "Hello Budda"
   },
-{
-
+  {
     "name": "Jirasak Jantarimping",
     "studentId": 6504106319,
     "nickname": "man",
@@ -127,5 +119,10 @@
     "nickname": "Nui",
     "comment": "Feeling unwell"
   },
-
+  {
+    "name": "Thanandorn Boonchot",
+    "studentId": 6504106355,
+    "nickname": "Boat",
+    "comment": "uh"
+  }
 ]
