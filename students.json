@@ -50,6 +50,7 @@
     "comment": "Su Su Su Supernova"
   },
   {
+
     "name": "Patipan Karuna",
     "studentId": 6404106321,
     "nickname": "New",
@@ -60,5 +61,12 @@
     "studentId": 6404106366,
     "nickname": "Wan",
     "comment": "เช้านี้อากาศดีจัง"
+  },
+ {
+    "name": "Nonthagorn Jantra",
+    "studentId": 6404106355,
+    "nickname": "Non",
+    "comment": "I TI PI SO"
+
   }
 ]
