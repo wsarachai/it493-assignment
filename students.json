@@ -12,10 +12,17 @@
     "comment": "I'm sad"
   },
   {
+    "name": "Watcharin Sarachai",
+    "studentId": 1234567890,
+    "nickname": "Keng",
+    "comment": "Hello World"
+  },
+  {
     "name": "Sirinat Panraksa",
     "studentId": 6404106342,
     "nickname": "Boss/Nut",
     "comment": "Unlimited blade work"
+<<<<<<< HEAD
   },
   {
     "name": "Patipan Karuna",
@@ -28,5 +35,8 @@
     "studentId": 6404106366,
     "nickname": "Wan",
     "comment": "เช้านี้อากาศดีจัง"
+=======
+
+>>>>>>> fa2056a5abbb717785eb776bfea209547a2d2fae
   }
 ]
