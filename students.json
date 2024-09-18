@@ -22,7 +22,6 @@
     "studentId": 6404106342,
     "nickname": "Boss/Nut",
     "comment": "Unlimited blade work"
-<<<<<<< HEAD
   },
   {
     "name": "Patipan Karuna",
@@ -35,8 +34,11 @@
     "studentId": 6404106366,
     "nickname": "Wan",
     "comment": "เช้านี้อากาศดีจัง"
-=======
-
->>>>>>> fa2056a5abbb717785eb776bfea209547a2d2fae
+  },
+  {
+    "name": "Chinnakit Uparakul",
+    "studentId": 6504106338,
+    "nickname": "Chin",
+    "comment": "I'm no good"
   }
 ]
