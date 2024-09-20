@@ -342,14 +342,22 @@
     "nickname": "Nice",
     "comment": "TvT"
   },
-  {"name": "Jirasak Manotham",
+  {
+  "name": "Jirasak Manotham",
    "studentId": 6504106320,
     "nickname": "Nort",
     "comment": "อัศวินรัติกาล"
   },
-  {"name": "Nanthawat Peangklang",
+  {
+  "name": "Chatchapong Samransri",
+   "studentId": 6504106332,
+    "nickname": "Pungpond",
+    "comment": "zzz"
+  },
+  {
+  "name": "Nanthawat Peangklang",
    "studentId": 6404106320,
     "nickname": "Toto",
-    "comment": "Hi hi hi"
+    "comment": "Zzz"
   }
 ]
