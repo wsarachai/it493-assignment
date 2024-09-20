@@ -337,8 +337,18 @@
     "comment": "BB"
   },
   {
-    "name": "Nanthawat Peangklang",
-    "studentId": 6404106320,
+    "name": "Kitnupong Reiljeath",
+    "studentId": 6404106305,
+    "nickname": "Nice",
+    "comment": "TvT"
+  },
+  {"name": "Jirasak Manotham",
+   "studentId": 6504106320,
+    "nickname": "Nort",
+    "comment": "อัศวินรัติกาล"
+  },
+  {"name": "Nanthawat Peangklang",
+   "studentId": 6404106320,
     "nickname": "Toto",
     "comment": "Hi hi hi"
   }
