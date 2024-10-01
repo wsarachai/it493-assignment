@@ -10,5 +10,11 @@
     "studentId": 1234567890,
     "nickname": "ITSCI",
     "comment": "I'm learning to fork github repository"
+  },
+  {
+    "name": "Itsci Info 2",
+    "studentId": 1234567890,
+    "nickname": "ITSCI",
+    "comment": "I'm learning to fork github repository"
   }
 ]
