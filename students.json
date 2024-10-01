@@ -1,0 +1,15 @@
+[
+  {
+    "name": "John Doe",
+    "studentId": 30,
+    "nickname": "John",
+    "comment": "I'm happy"
+  },
+  {
+    "name": "Linda Doe",
+    "studentId": 31,
+    "nickname": "Linda",
+    "comment": "I'm sad"
+  }
+]
+
