@@ -6,10 +6,9 @@
     "comment": "I'm happy"
   },
   {
-    "name": "Linda Doe",
-    "studentId": 31,
-    "nickname": "Linda",
-    "comment": "I'm sad"
+    "name": "Itsci Info",
+    "studentId": 1234567890,
+    "nickname": "ITSCI",
+    "comment": "I'm learning to fork github repository"
   }
 ]
-
