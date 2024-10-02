@@ -1,23 +1,5 @@
 [
   {
-    "name": "John Doe",
-    "studentId": 30,
-    "nickname": "John",
-    "comment": "I'm happy"
-  },
-  {
-    "name": "Itsci Info",
-    "studentId": 1234567890,
-    "nickname": "ITSCI",
-    "comment": "I'm learning to fork github repository"
-  },
-  {
-    "name": "Itsci Info 2",
-    "studentId": 1234567890,
-    "nickname": "ITSCI",
-    "comment": "I'm learning to fork github repository"
-  },
-  {
     "name": "Phurisit Saejang",
     "studentId": 6404106328,
     "nickname": "First",
