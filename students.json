@@ -5,9 +5,16 @@
     "nickname": "Nut",
     "comment": "Git fork very gud"
   },
+  {
     "name": "Phurisit Saejang",
     "studentId": 6404106328,
     "nickname": "First",
     "comment": "The First Avenger Is Captain America"
+  },
+  {
+    "name": "Nonthangorn Jantar",
+    "studentId": 6404106355,
+    "nickname": "Non",
+    "comment": "GUNDAM BREAKER 4"
   }
 ]
