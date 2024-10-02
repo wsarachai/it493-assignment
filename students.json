@@ -16,5 +16,11 @@
     "studentId": 1234567890,
     "nickname": "ITSCI",
     "comment": "I'm learning to fork github repository"
+  },
+  {
+    "name": "Sirinat Panraksa",
+    "studentId": 6404106342,
+    "nickname": "Nut",
+    "comment": "Git fork very gud"
   }
 ]
