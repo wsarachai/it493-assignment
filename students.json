@@ -180,10 +180,57 @@
     "comment": "I'm ice "
   },
   {
+    "name": "Nakarin Nanthasen",
+    "studentId": 6404106319,
+    "nickname": "Pond",
+    "comment": "T---T"
+  },
+  {
+    "name": "ชลินทรา ลาวิราช",
+    "studentId": 6504106330,
+    "nickname": "Ice",
+    "comment": "Hi Hi"
+  },
+  {
+    "name": "วีรภัทร จีนกิจมั่น",
+    "studentId": 6504106405,
+    "nickname": "Fix",
+    "comment": "Kub"
+  },
+  {
+    "name": "ภาราดร ลาละคร",
+    "studentId": 6504106387,
+    "nickname": "Fluk",
+    "comment": "I Love Teacher"
+  },
+  {
+    "name": "Theerachai Supingklud",
+    "studentId": 6404106317,
+    "nickname": "Act",
+    "comment": "HI KUBBBB"
+  },
+  {
+    "name": "Patipan Kadruen",
+    "studentId": 6504106370,
+    "nickname": "Aum",
+    "comment": "HI Aum"
+  },
+  {
+    "name": "Kanatip Pampeat",
+    "studentId": 6404106350,
+    "nickname": "Nest",
+    "comment": "HI Nest"
+  },
+  {
+    "name": "Jutamas Puykham",
+    "studentId": 6504106324,
+    "nickname": "Namphueng",
+    "comment": "HI Hello"
+  },
+  {
     "name": "Kanatip Pampeat",
     "studentId": 6404106350,
     "nickname": "Nest",
     "comment": "Hi git fork"
   }
-  
 ]
