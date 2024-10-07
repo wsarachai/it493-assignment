@@ -1,425 +1,236 @@
 [
   {
-    "name": "John Doe",
-    "studentId": 30,
-    "nickname": "John",
-    "comment": "I'm happy"
-  },
-  {
-    "name": "Linda Doe",
-    "studentId": 31,
-    "nickname": "Linda",
-    "comment": "I'm sad"
-  },
-  {
-    "name": "Watcharin Sarachai",
-    "studentId": 1234567890,
-    "nickname": "Keng",
-    "comment": "Hello World"
-  },
-  {
     "name": "Sirinat Panraksa",
     "studentId": 6404106342,
-    "nickname": "Boss/Nut",
-    "comment": "Unlimited blade work"
-  },
-  {
-    "name": "Chitiphat tangsawat",
-    "studentId": 6404106337,
-    "nickname": "uniff",
-    "comment": "Hellow"
-  },
-  {
-    "name": "Chinnakit Uparakul",
-    "studentId": 6504106338,
-    "nickname": "Chin",
-    "comment": "I'm no good"
-  },
-  {
-    "name": "Raphiphat Wongkhat",
-    "studentId": 6404106330,
-    "nickname": "JOJO",
-    "comment": "I'm unstopble"
-  },
-  {
-    "name": "Passakorn Thamthong",
-    "studentId": 6404106326,
-    "nickname": "Boo",
-    "comment": "Su Su Su Supernova"
-  },
-  {
-    "name": "Patipan Karuna",
-    "studentId": 6404106321,
-    "nickname": "New",
-    "comment": "Fubuki is best Friend!!"
-  },
-  {
-    "name": "Suttilurk Sanprom",
-    "studentId": 6404106366,
-    "nickname": "Wan",
-    "comment": "เช้านี้อากาศดีจัง"
-  },
-  {
-    "name": "Nonthagorn Jantra",
-    "studentId": 6404106355,
-    "nickname": "Non",
-    "comment": "I TI PI SO"
-  },
-  {
-    "name": "Nirut Chanai",
-    "studentId": 6504106366,
-    "nickname": "RUT",
-    "comment": "D D D D D D"
-  },
-  {
-    "name": "Jakkaphat Chaiwongsa",
-    "studentId": 6504106313,
-    "nickname": "M",
-    "comment": "Allahu"
-  },
-  {
-    "name": "จิรภัทร์ ทองรัตน์",
-    "studentId": 6504106317,
-    "nickname": "Makham",
-    "comment": "y.y"
-  },
-  {
-    "name": "Pattrawut maojai",
-    "studentId": 6504106383,
-    "nickname": "jame",
-    "comment": "good Everyday"
-  },
-  {
-    "name": "Siraprapha Thabut",
-    "studentId": 6504106409,
-    "nickname": "Nui",
-    "comment": "Feeling unwell"
-  },
-  {
-    "name": "Thanandorn Boonchot",
-    "studentId": 6504106355,
-    "nickname": "Boat",
-    "comment": "uh"
-  },
-  {
-    "name": "Chanchai Ngernsai",
-    "studentId": 6504106336,
-    "nickname": "Ball",
-    "comment": "wow"
-  },
-  {
-    "name": "Netiporn Sinpiang",
-    "studentId": 6504106368,
-    "nickname": "Nay",
-    "comment": "Have A Good Day"
-  },
-  {
-    "name": "Wipada Pancharoen",
-    "studentId": 6504106404,
-    "nickname": "view",
-    "comment": "Satu99"
-  },
-  {
-    "name": "Thidarat Thongthip",
-    "studentId": 6504106356,
-    "nickname": "Bim",
-    "comment": "Hello Budda"
-  },
-  {
-    "name": "Jirasak Jantarimping",
-    "studentId": 6504106319,
-    "nickname": "man",
-    "comment": "Supperman"
-  },
-  {
-    "name": "Sakundee Limwathana",
-    "studentId": 6304106342,
-    "nickname": "Thonnow",
-    "comment": "Yo whats up"
-  },
-  {
-    "name": "Phatcharapol Siriurang",
-    "studentId": 6504106432,
-    "nickname": "Tae",
-    "comment": "0x183ACC9C0"
-  },
-  {
-    "name": "Kongpop Janjongkam",
-    "studentId": 6504106303,
-    "nickname": "Kong",
-    "comment": "รู้มือ"
-  },
-  {
-    "name": "Witchayut Arinto",
-    "studentId": 6504106402,
-    "nickname": "Wiw",
-    "comment": "300%"
-  },
-  {
-    "name": "Nontakorn Ut-umong",
-    "studentId": 6504106362,
-    "nickname": "Phoom",
-    "comment": ">3<"
-  },
-  {
-    "name": "Sirichai Watchaiyakun",
-    "studentId": 6504106410,
-    "nickname": "lookpub",
-    "comment": "cat lover"
-  },
-  {
-    "name": "Phatsakon Chomaup",
-    "studentId": 6504106388,
-    "nickname": "Oam",
-    "comment": "I love U"
-  },
-  {
-    "name": "Nuengruethai Katesang",
-    "studentId": 6504106424,
-    "nickname": "Nueng",
-    "comment": "k ๆ"
-  },
-  {
-
-    "name": "Nathanon Onchaona",
-    "studentId": 6504106430,
-    "nickname": "Non",
-    "comment": "Testy so good"
-  },
-  {
-    "name": "Phuwadon Jaimu",
-    "studentId": 6504106390,
-    "nickname": "Tar",
-    "comment": "เรื่องราวราวดีๆเว่อร์"
-  },
-  {
-    "name": "Chetsada Wandee",
-    "studentId": 6204106303,
-    "nickname": "Buddy",
-    "comment": "Say Hi"
-  },
-  {
-    "name": "Kongsakun Chantha",
-    "studentId": 6504106304,
-    "nickname": "Leo",
-    "comment": "good"
+    "nickname": "Nut",
+    "comment": "Git fork very gud"
   },
   {
     "name": "Phurisit Saejang",
     "studentId": 6404106328,
     "nickname": "First",
-    "comment": "Good Night Baby"
+    "comment": "The First Avenger Is Captain America"
   },
   {
-    "name": "Nutthayot joycharean",
-    "studentId": 6404106352,
-    "nickname": "keen",
-    "comment": "I am batman in the world"
+    "name": "Suttilurk Sanprom",
+    "studentId": 6404106366,
+    "nickname": "Wan",
+    "comment": "กำลังเรียน git fork"
   },
   {
-    "name": "Nontachat Tumnus",
-    "studentId": 6504106363,
+    "name": "pattrawut maojai",
+    "studentId": 6504106383,
+    "nickname": "jame",
+    "comment": "git fork !!!!!!"
+  },
+  {
+    "name": "Nonthangorn Jantar",
+    "studentId": 6404106355,
     "nickname": "Non",
-    "comment": "Love"
+    "comment": "GUNDAM BREAKER 4"
   },
   {
-    "name": "anucha bunma",
+    "name": "Raphiphat Wongkhat",
+    "studentId": 6404106330,
+    "nickname": "jojo",
+    "comment": "tu tu tu tu max vestrappen"
+  },
+  {
+    "name": "Patipan Karuna",
+    "studentId": 6404106321,
+    "nickname": "New",
+    "comment": "fubuki is best FRIEND"
+  },
+  {
+    "name": "Passakorn Thamthong",
+    "studentId": 6404106326,
+    "nickname": "Boo",
+    "comment": "Su Su Su SIUUUUUUU"
+  },
+  {
+    "name": "Chitiphat thangsawat",
+    "studentId": 654106337,
+    "nickname": "UN",
+    "comment": " Hell today"
+  },
+  {
+    "name": "จิรภัทร์ ทองรัตน์",
+    "studentId": 6504106317,
+    "nickname": "MK",
+    "comment": "Git fork very gud"
+  },
+  {
+    "name": "Siraprapha Thabut",
+    "studentId": 6504106409,
+    "nickname": "์Nui",
+    "comment": "The weather is very hot"
+  },
+  {
+    "name": "Chinnakit Uparakul",
+    "studentId": 6504106338,
+    "nickname": "Chin",
+    "comment": "hell on earth"
+  },
+  {
+    "name": "Nontakorn Ut-umong",
+    "studentId": 6504106362,
+    "nickname": "Phoom",
+    "comment": "Your My SUNSHINE"
+  },
+  {
+    "name": "Chollakon Chotnikom",
+    "studentId": 6504106328,
+    "nickname": "Toey",
+    "comment": "Let's have lunch"
+  },
+  {
+    "name": "Natthayot Joycharean",
+    "studentId": 6404106352,
+    "nickname": "Keen",
+    "comment": "IDK"
+  },
+  {
+    "name": "Anucha bunma",
     "studentId": 6404106345,
     "nickname": "Fair",
-    "comment": "play with me"
+    "comment": "mumim mumim mumim mumim mumim"
   },
   {
-    "name": "Jaruwan Jayee",
-    "studentId": 6504106315,
-    "nickname": "klim",
-    "comment": "so so so"
+    "name": "Nirut Chanai",
+    "studentId": 6504106366,
+    "nickname": "Rut",
+    "comment": " Git Git Verygood "
+  },
+  {
+    "name": "Jutamas Puykham",
+    "studentId": 6504106324,
+    "nickname": "Namphueng",
+    "comment": " Hello Hi Hey "
+  },
+  {
+    "name": "Phutcharapol Siriurang",
+    "studentId": 6504106432,
+    "nickname": "Tae",
+    "comment": "insert comment here"
+  },
+  {
+    "name": "Witchayut Arinto",
+    "studentId": 6504106402,
+    "nickname": "Wiw",
+    "comment": "Good Good very Goodddddd"
+  },
+  {
+    "name": "Chanchai Ngernsai",
+    "studentId": 6504106336,
+    "nickname": "Ball",
+    "comment": "good night kub"
+  },
+  {
+    "name": "Wanchai Yuangkhao",
+    "studentId": 6404106334,
+    "nickname": "Boy",
+    "comment": "Git Fork na krub :)"
   },
   {
     "name": "Watcharin Patanon",
     "studentId": 6404106333,
-    "nickname": "ICE",
-    "comment": "A"
-  },
- {
-    "name": "Wanchai Yuangkhao",
-    "studentId": 6404106334,
-    "nickname": "Boy",
-    "comment": ":)"
-  },
-  {
-    "name": "Pawaret Tompa",
-    "studentId": 6404106322,
-    "nickname": "Mee",
-    "comment": "while true do break end"
-  },
-  {
-    "name": "Sudarat Rattanasin",
-    "studentId": 6404106365,
-    "nickname": "Sarah",
-    "comment": "Have A Good Day"
-  },
-  {
-    "name": "chonthicha Aemseng",
-    "studentId": 6404106307,
-    "nickname": "NAm",
-    "comment": "welcome to hell"
-  },
-  {
-    "name": "Jaksurat Janpeng",
-    "studentId": 6404106305,
-    "nickname": "kafair",
-    "comment": "hi everything"
-  },
-  {
-    "name": "Theantawan Mungkid",
-    "studentId": 6404106318,
-    "nickname": "Thunder",
-    "comment": "I love u so much"
-  },
-  {
-    "name": "Nutnaree Upara",
-    "studentId": 6404106308,
-    "nickname": "Aumaim",
-    "comment": "I'm so beautifull."
+    "nickname": "Ice",
+    "comment": "Ok"
   },
   {
     "name": "Weeranan Pengkhiao",
     "studentId": 6404106336,
-    "nickname": "joe",
-    "comment": "Hello Peter."
+    "nickname": "Jo",
+    "comment": "Hello Peter!. And Hello fork"
   },
   {
-    "name": "Sarawut Ananwilai",
-    "studentId": 6404106340,
-    "nickname": "Tee",
-    "comment": "Hello."
+    "name": "Jetsada Wandee",
+    "studentId": 6204106303,
+    "nickname": "Buddy",
+    "comment": "Test add name"
   },
   {
-    "name": "Wipas Wanwin",
-    "studentId": 6404106335,
-    "nickname": "Klokski",
-    "comment": "Why are you gay."
+    "name": "Sakundee Limwathana",
+    "studentId": 6304106342,
+    "nickname": "Thonnow",
+    "comment": "Kaijae Korkan"
   },
   {
-    "name": "Sakoun Phoppanumas",
-    "studentId": 6404106339,
-    "nickname": "Wa",
-    "comment": "you are you gay."
+    "name": "Anuwat Chaichana",
+    "studentId": 6504106427,
+    "nickname": "kiw",
+    "comment": "hi high hiy"
   },
   {
-    "name": "Tunwarat Pimprasan",
-    "studentId": 6404106315,
-    "nickname": "May",
-    "comment": "Forever Hungry"
+   "name": "Wararuck Chiangchum",
+    "studentId": 6504106433,
+    "nickname": "Namphueng",
+    "comment": "Sawandee ka"
   },
   {
-    "name": "Adisak Phutai",
-    "studentId": 6404106343,
-    "nickname": "Wave",
-    "comment": "EIEI"
+    "name": "Phurit Srisukphan",
+    "studentId": 6404106327,
+    "nickname": "mark",
+    "comment": "late but never gone"
   },
   {
-  "name": "Supamongkol Nonleucha",
-  "studentId": 6304106337,
-  "nickname": "Marc",
-  "comment": "Give me for money"
-  },
-  {
-    "name": "Puangploy Naina",
-    "studentId": 6404106324,
-    "nickname": "Wan",
-    "comment": "GGEZ"
-  },
-  {
-    "name": "Sarinya Ruankamjan",
-    "studentId": 6404106341,
-    "nickname": "Beam",
-    "comment": "BB"
-  },
-  {
-    "name": "Kitnupong Reiljeath",
-    "studentId": 6504106305,
-    "nickname": "Nice",
-    "comment": "TvT"
-  },
-  {
-  "name": "Jirasak Manotham",
-   "studentId": 6504106320,
-    "nickname": "Nort",
-    "comment": "อัศวินรัติกาล"
-  },
-  {
-  "name": "Chatchapong Samransri",
-   "studentId": 6504106332,
-    "nickname": "Pungpond",
-    "comment": "zzz"
-  },
-  {
-  "name": "Nanthawat Peangklang",
-   "studentId": 6404106320,
-    "nickname": "Toto",
-    "comment": "Zzz"
-  },
-  {
-  "name": "Tackdanai sukako",
-   "studentId": 6404106310,
-    "nickname": "Tack",
-    "comment": "kaijad"
-  },
-  {
-  "name": "Nitikorn Jaijantib",
-   "studentId": 6504106365,
-    "nickname": "Nick",
-    "comment": "oo"
+    "name": "Chalinthar Lawirach",
+    "studentId": 6504106330,
+    "nickname": "ice",
+    "comment": "I'm ice "
   },
   {
     "name": "Nakarin Nanthasen",
-     "studentId": 6404106319,
-      "nickname": "Pond",
-      "comment": "T---T"
-    },
-   {
+    "studentId": 6404106319,
+    "nickname": "Pond",
+    "comment": "T---T"
+  },
+  {
     "name": "ชลินทรา ลาวิราช",
-     "studentId": 6504106330,
-      "nickname": "Ice",
-      "comment": "Hi Hi"
-    },
-    {
-     "name": "วีรภัทร จีนกิจมั่น",
-      "studentId": 6504106405,
-       "nickname": "Fix",
-       "comment": "Kub"
-     },
-     {
-      "name": "ภาราดร ลาละคร",
-       "studentId": 6504106387,
-        "nickname": "Fluk",
-        "comment": "I Love Teacher"
-     },
-     {
-      "name": "Theerachai Supingklud",
-       "studentId": 6404106317,
-        "nickname": "Act",
-        "comment": "HI KUBBBB"
-     } ,
-     {
-      "name": "Patipan Kadruen",
-       "studentId": 6504106370,
-        "nickname": "Aum",
-        "comment": "HI Aum"
-     },
-    {
-      "name": "Kanatip Pampeat",
-       "studentId": 6404106350,
-        "nickname": "Nest",
-        "comment": "HI Nest"
-     },
-    {
-      "name": "Jutamas Puykham",
-       "studentId": 6504106324,
-        "nickname": "Namphueng",
-        "comment": "HI Hello"
-     }
-  
+    "studentId": 6504106330,
+    "nickname": "Ice",
+    "comment": "Hi Hi"
+  },
+  {
+    "name": "วีรภัทร จีนกิจมั่น",
+    "studentId": 6504106405,
+    "nickname": "Fix",
+    "comment": "Kub"
+  },
+  {
+    "name": "ภาราดร ลาละคร",
+    "studentId": 6504106387,
+    "nickname": "Fluk",
+    "comment": "I Love Teacher"
+  },
+  {
+    "name": "Theerachai Supingklud",
+    "studentId": 6404106317,
+    "nickname": "Act",
+    "comment": "HI KUBBBB"
+  },
+  {
+    "name": "Patipan Kadruen",
+    "studentId": 6504106370,
+    "nickname": "Aum",
+    "comment": "HI Aum"
+  },
+  {
+    "name": "Kanatip Pampeat",
+    "studentId": 6404106350,
+    "nickname": "Nest",
+    "comment": "HI Nest"
+  },
+  {
+    "name": "Jutamas Puykham",
+    "studentId": 6504106324,
+    "nickname": "Namphueng",
+    "comment": "HI Hello"
+  },
+  {
+    "name": "Kanatip Pampeat",
+    "studentId": 6404106350,
+    "nickname": "Nest",
+    "comment": "Hi git fork"
+  }
 ]
-
