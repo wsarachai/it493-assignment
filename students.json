@@ -165,7 +165,7 @@
    "name": "Wararuck Chiangchum",
     "studentId": 6504106433,
     "nickname": "Namphueng",
-    "comment": "Sawandee ka"
+    "comment": "Sawatdee"
   },
   {
     "name": "Phurit Srisukphan",
@@ -232,5 +232,6 @@
     "studentId": 6404106350,
     "nickname": "Nest",
     "comment": "Hi git fork"
+
   }
 ]
