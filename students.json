@@ -178,5 +178,12 @@
     "studentId": 6504106330,
     "nickname": "ice",
     "comment": "I'm ice "
+  },
+  {
+    "name": "Kanatip Pampeat",
+    "studentId": 6404106350,
+    "nickname": "Nest",
+    "comment": "Hi git fork"
   }
+  
 ]
