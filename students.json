@@ -156,9 +156,34 @@
     "comment": "Kaijae Korkan"
   },
   {
+    "name": "Anuwat Chaichana",
+    "studentId": 6504106427,
+    "nickname": "kiw",
+    "comment": "hi high hiy"
+  },
+  {
+   "name": "Wararuck Chiangchum",
+    "studentId": 6504106433,
+    "nickname": "Namphueng",
+    "comment": "Sawandee ka"
+  },
+  {
+    "name": "Phurit Srisukphan",
+    "studentId": 6404106327,
+    "nickname": "mark",
+    "comment": "late but never gone"
+  },
+  {
+    "name": "Chalinthar Lawirach",
+    "studentId": 6504106330,
+    "nickname": "ice",
+    "comment": "I'm ice "
+  },
+  {
     "name": "Kanatip Pampeat",
     "studentId": 6404106350,
     "nickname": "Nest",
     "comment": "Hi git fork"
   }
+  
 ]
