@@ -240,24 +240,22 @@
     "nickname": "Bim",
     "comment": "Help !!!! "
 
-  }
-  ,
+  },
   {
     "name": "Wipada Pancharoen",
     "studentId": 6504106404,
     "nickname": "View",
     "comment": "Noyyyyy makkk "
 
-  }
-  ,
+  },
   {
     "name": "Netiporn Sinpiang",
     "studentId": 6504106368,
     "nickname": "Nay",
     "comment": "goodddddd "
 
-  }
- ,{
+  },
+  {
     "name": "Jaruwan Jayee",
     "studentId": 6504106315,
     "nickname": "Kimlak",
@@ -332,15 +330,51 @@
     "comment": "เอาล่ะๆๆๆๆ"
   },
   {
+    "name": "Chinnapat Yathatum",
+    "studentId": 6504106340,
+    "nickname": "GG",
+    "comment": "D krub"
+  },
+  {
+    "name": "Kongpop Janjongkam",
+    "studentId": 6504106303,
+    "nickname": "Kong",
+    "comment": "#ลู้เลื่อง#ลู้พิกัด#ลู้มือ"
+  },
+  {
+    "name": "Kngsakun Chantha",
+    "studentId": 6504106304,
+    "nickname": "Leo",
+    "comment": "GG"
+  },
+  {
+  "name": "Tackdanai sukako",
+  "studentId": 6404106310,
+  "nickname": "Tack",
+  "comment": "pahagumbalaaon"
+  },
+  {
+    "name": "Nanthawat Peangklang",
+    "studentId": 6404106320,
+    "nickname": "Toto",
+    "comment": "เอาๆๆๆๆ"
+  },
+  {
+    "name": "Phuwadon Jaimun",
+    "studentId": 6504106390,
+    "nickname": "Tar",
+    "comment": "เรอมั้ยค้าา"
+  },
+  {
+    "name": "Nuengruethai Katesang",
+    "studentId": 6504106424,
+    "nickname": "Nueng",
+    "comment": "jer gu"
+  },
+  {
     "name": "Supamongkol Nonleucha",
     "studentId": 6304106337,
     "nickname": "Marc",
     "comment": "ฮาว่าละ"
-  },
-  {
-    "name": "Theerachai Supingklud",
-    "studentId": 6404106317,
-    "nickname": "Act",
-    "comment": "ท้ออออออ"
   }
 ]
