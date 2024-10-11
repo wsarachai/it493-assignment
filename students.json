@@ -240,24 +240,22 @@
     "nickname": "Bim",
     "comment": "Help !!!! "
 
-  }
-  ,
+  },
   {
     "name": "Wipada Pancharoen",
     "studentId": 6504106404,
     "nickname": "View",
     "comment": "Noyyyyy makkk "
 
-  }
-  ,
+  },
   {
     "name": "Netiporn Sinpiang",
     "studentId": 6504106368,
     "nickname": "Nay",
     "comment": "goodddddd "
 
-  }
- ,{
+  },
+  {
     "name": "Jaruwan Jayee",
     "studentId": 6504106315,
     "nickname": "Kimlak",
@@ -332,7 +330,6 @@
     "comment": "เอาล่ะๆๆๆๆ"
   },
   {
-    
     "name": "Chinnapat Yathatum",
     "studentId": 6504106340,
     "nickname": "GG",
@@ -373,5 +370,11 @@
     "studentId": 6504106424,
     "nickname": "Nueng",
     "comment": "jer gu"
+  },
+  {
+    "name": "Supamongkol Nonleucha",
+    "studentId": 6304106337,
+    "nickname": "Marc",
+    "comment": "ฮาว่าละ"
   }
 ]
