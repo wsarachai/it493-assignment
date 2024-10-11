@@ -332,6 +332,7 @@
     "comment": "เอาล่ะๆๆๆๆ"
   },
   {
+    
     "name": "Chinnapat Yathatum",
     "studentId": 6504106340,
     "nickname": "GG",
@@ -366,5 +367,11 @@
     "studentId": 6504106390,
     "nickname": "Tar",
     "comment": "เรอมั้ยค้าา"
+  },
+  {
+    "name": "Nuengruethai Katesang",
+    "studentId": 6504106424,
+    "nickname": "Nueng",
+    "comment": "jer gu"
   }
 ]
